@@ -1,0 +1,10 @@
+C:\Users\santa\source\repos\Calculadora COMPLETA\Calculadora COMPLETA\bin\Debug\Calculadora COMPLETA.exe.config
+C:\Users\santa\source\repos\Calculadora COMPLETA\Calculadora COMPLETA\bin\Debug\Calculadora COMPLETA.exe
+C:\Users\santa\source\repos\Calculadora COMPLETA\Calculadora COMPLETA\bin\Debug\Calculadora COMPLETA.pdb
+C:\Users\santa\source\repos\Calculadora COMPLETA\Calculadora COMPLETA\obj\Debug\Calculadora COMPLETA.csproj.AssemblyReference.cache
+C:\Users\santa\source\repos\Calculadora COMPLETA\Calculadora COMPLETA\obj\Debug\Calculadora_COMPLETA.Form1.resources
+C:\Users\santa\source\repos\Calculadora COMPLETA\Calculadora COMPLETA\obj\Debug\Calculadora_COMPLETA.Properties.Resources.resources
+C:\Users\santa\source\repos\Calculadora COMPLETA\Calculadora COMPLETA\obj\Debug\Calculadora COMPLETA.csproj.GenerateResource.cache
+C:\Users\santa\source\repos\Calculadora COMPLETA\Calculadora COMPLETA\obj\Debug\Calculadora COMPLETA.csproj.CoreCompileInputs.cache
+C:\Users\santa\source\repos\Calculadora COMPLETA\Calculadora COMPLETA\obj\Debug\Calculadora COMPLETA.exe
+C:\Users\santa\source\repos\Calculadora COMPLETA\Calculadora COMPLETA\obj\Debug\Calculadora COMPLETA.pdb
